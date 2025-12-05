@@ -1,3 +1,5 @@
+Et micro:bit-prosjekt for å logge akselerasjonsdata med micro:bit i papirrakett. 
+Prosjektet er en del av Vitensenteret i Trondheims undervisningsopplegg "Mission Micro:rakett" hvor elevene designer raketter, programmerer, skyter opp rakett og analyserer resultatene.
 
 > Åpne denne siden på [https://olauk.github.io/mission-microrocket/](https://olauk.github.io/mission-microrocket/)
 
